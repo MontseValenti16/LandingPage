@@ -12,6 +12,10 @@ import { DiscographyComponent } from './discography/discography.component';
   ],
   imports: [
     CommonModule
+  ],
+  exports:[
+    HeaderComponent,
+    DiscographyComponent
   ]
 })
 export class LandingModule { }

@@ -1,0 +1,26 @@
+
+header{
+  text-align: center;
+}
+header h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: black;
+  background-color: #c3a743;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+header img {
+  width: 100%;
+  max-width: 1400px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+}
+
+header p {
+  font-weight: bold;
+  font-size: 30px;
+  color: #333;
+  line-height: 1.6;
+}
